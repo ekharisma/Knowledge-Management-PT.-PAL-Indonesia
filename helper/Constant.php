@@ -1,0 +1,2 @@
+define("SITE_KEY", "6Ld6pHcaAAAAAGJZ3dX3L4tWMkWX4NYvg1OmGcGM");
+define("SECRET_KEY", "6Ld6pHcaAAAAAGuniB5cXORFIqsQTkTDwtNxX-mN");
